@@ -1,7 +1,7 @@
 ---
 name: Idea wants team
 about: You have an idea and need some people to help you make it a reality!
-
+title: "[NEW]: "
 ---
 
 ## Introduction
@@ -24,16 +24,16 @@ _What skills do you need, or think you might need to implement the idea?_
 - [ ] Core Blockchain Development (Go, C++, Rust)
 - [ ] Smart Contracts (Solidity, Vyper)
 - [ ] DApps, Web3.JS (JavaScript, CSS)
+- [ ] Blockchain Operations, Infrastructure
+- [ ] Game theory, Crypto-Economics
 - [ ] Design, User Experience
 - [ ] Project Management
-- [ ] Game theory
 - [ ] _Other_: ...
 
 ## Communication
 
-_Consider leaving your personal Riot/Status address so that the team can contact you off GitHub._
+_Consider leaving your personal Matrix address so that the team can contact you off GitHub._
 
-- [ ] _Riot handle_:
-- [ ] _Status IM_:
+- [ ] _Matrix handle_:
 
 _Note that this is only a template, feel free to talk about anything you want teams to know!_
