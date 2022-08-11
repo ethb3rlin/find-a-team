@@ -1,17 +1,17 @@
-# ETHBerlin Zwei Teamfinding 2019
+# ETHBerlin³ Teamfinding 2022
 
 This repository contains an issue tracker that allows teams to find hackers, and hackers to find a team.
 
 ## TL;DR
 
--   Looking for a team? Create an issue with `[LFT]`: [Find-A-Team/issues/new?template=hacker-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=hacker-wants-team.md)
--   Locking for hackers? Create an issue with `[LFH]`: [Find-A-Team/issues/new?template=team-wants-hacker.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=team-wants-hacker.md)
--   Want to create a new team? Create an issue with `[NEW]`: [Find-A-Team/issues/new?template=idea-wants-team.md](https://github.com/ethberlinzwei/Find-A-Team/issues/new?template=idea-wants-team.md)
--   Browse existing inserations: [ethberlinzwei/Find-A-Team/issues](https://github.com/ethberlinzwei/Find-A-Team/issues)
--   Connect with hackers on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
+-   Looking for a team? Create an issue with `[LFT]`: [find-a-team/issues/new?template=hacker-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?template=hacker-wants-team.md)
+-   Looking for hackers? Create an issue with `[LFH]`: [find-a-team/issues/new?template=team-wants-hacker.md](https://github.com/ethb3rlin/find-a-team/issues/new?template=team-wants-hacker.md)
+-   Want to create a new team? Create an issue with `[NEW]`: [find-a-team/issues/new?template=idea-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?template=idea-wants-team.md)
+-   Browse existing inserations: [ethb3rlin/find-a-team/issues](https://github.com/ethb3rlin/find-a-team/issues)
+-   Connect with hackers on Matrix: [#find:tchncs.de](https://matrix.to/#/#find:tchncs.de)
 
 
-![ETHBerlin logo](https://ethberlinzwei.com/img/mainlogo.svg)
+![ETHBerlin logo](https://ethberlin.ooo/card.png)
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
@@ -42,9 +42,6 @@ Some people have great ideas, but don't have a team yet to help them bring it in
 
 ## Communication
 
-Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point. 
+Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point.  Join the hacker chat room on Matrix: [#find:tchncs.de](https://matrix.to/#/#find:tchncs.de)
 
-1. You could meet in the `#buidlyourberlinteam` chat on Status: <https://status.im/>
-2. Or join the hacker chat room on Riot: [#ethberlinhackers:matrix.org](https://riot.im/app/#/room/#ethberlinhackers:matrix.org)
-
-You can also just directly leave your personal Riot/Status address in your tracking issue.
+You can also just directly leave your personal Matrix address in your tracking issue if you prefer.
