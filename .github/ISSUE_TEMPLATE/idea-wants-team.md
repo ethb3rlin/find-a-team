@@ -2,6 +2,7 @@
 name: Idea wants team
 about: You have an idea and need some people to help you make it a reality!
 title: "[NEW]: "
+labels: creating-new-team
 ---
 
 ## Introduction
