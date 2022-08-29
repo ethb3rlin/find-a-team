@@ -2,6 +2,7 @@
 name: Hacker wants team
 about: You have skills and want to find a team? Great!
 title: "[LFT]: "
+labels: looking-for-team
 ---
 
 ## Background
