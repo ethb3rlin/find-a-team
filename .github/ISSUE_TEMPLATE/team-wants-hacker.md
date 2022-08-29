@@ -2,6 +2,7 @@
 name: Team wants hacker
 about: You have a team and want to find more hackers? Amazing!
 title: "[LFH]: "
+labels: looking-for-hacker
 ---
 
 ## Pitch it!
