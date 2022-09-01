@@ -4,9 +4,9 @@ This repository contains an issue tracker that allows teams to find hackers, and
 
 ## TL;DR
 
--   Looking for a team? Create an issue with `[LFT]`: [find-a-team/issues/new?template=hacker-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=&template=hacker-wants-team.md&title=%5BLFT%5D%3A+)
--   Looking for hackers? Create an issue with `[LFH]`: [find-a-team/issues/new?template=team-wants-hacker.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=&template=team-wants-hacker.md&title=%5BLFH%5D%3A+)
--   Want to create a new team? Create an issue with `[NEW]`: [find-a-team/issues/new?template=idea-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=&template=idea-wants-team.md&title=%5BNEW%5D%3A+)
+-   Looking for a team? Create an issue with `[LFT]`: [find-a-team/issues/new?template=hacker-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=looking-for-team&template=hacker-wants-team.md&title=%5BLFT%5D%3A+)
+-   Looking for hackers? Create an issue with `[LFH]`: [find-a-team/issues/new?template=team-wants-hacker.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=looking-for-hackers&template=team-wants-hacker.md&title=%5BLFH%5D%3A+)
+-   Want to create a new team? Create an issue with `[NEW]`: [find-a-team/issues/new?template=idea-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=creating-new-team&template=idea-wants-team.md&title=%5BNEW%5D%3A+)
 -   Browse existing inserations: [ethb3rlin/find-a-team/issues](https://github.com/ethb3rlin/find-a-team/issues)
 -   Connect with hackers on Matrix: [#find:tchncs.de](https://matrix.to/#/#find:tchncs.de)
 
