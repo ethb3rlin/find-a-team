@@ -1,4 +1,4 @@
-# ETHBerlin³ Teamfinding 2022
+# ETHBerlin04 Teamfinding 2024
 
 This repository contains an issue tracker that allows teams to find hackers, and hackers to find a team.
 
@@ -8,10 +8,10 @@ This repository contains an issue tracker that allows teams to find hackers, and
 -   Looking for hackers? Create an issue with `[LFH]`: [find-a-team/issues/new?template=team-wants-hacker.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=looking-for-hackers&template=team-wants-hacker.md&title=%5BLFH%5D%3A+)
 -   Want to create a new team? Create an issue with `[NEW]`: [find-a-team/issues/new?template=idea-wants-team.md](https://github.com/ethb3rlin/find-a-team/issues/new?assignees=&labels=creating-new-team&template=idea-wants-team.md&title=%5BNEW%5D%3A+)
 -   Browse existing inserations: [ethb3rlin/find-a-team/issues](https://github.com/ethb3rlin/find-a-team/issues)
--   Connect with hackers on Matrix: [#find:tchncs.de](https://matrix.to/#/#find:tchncs.de)
+-   Connect with hackers on Matrix: [#eb4-teams:dod.ngo](https://matrix.to/#/#eb4-teams:dod.ngo)
 
 
-![ETHBerlin logo](https://ethberlin.ooo/card.png)
+![ETHBerlin logo](https://ethberlin.org/card.png)
 
 You are looking for a hacker to help buidl your idea or you're looking for a team to join? You've come to the right place! Hacking together is much more fun, so let's find you a team.
 
@@ -42,6 +42,6 @@ Some people have great ideas, but don't have a team yet to help them bring it in
 
 ## Communication
 
-Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point.  Join the hacker chat room on Matrix: [#find:tchncs.de](https://matrix.to/#/#find:tchncs.de)
+Interacting through issues might be great to find an initial match, but you probably want to take the conversation off GitHub at some point.  Join the hacker chat room on Matrix: [#eb4-teams:dod.ngo](https://matrix.to/#/#eb4-teams:dod.ngo)
 
 You can also just directly leave your personal Matrix address in your tracking issue if you prefer.
